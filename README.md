@@ -94,6 +94,9 @@ Build a centralized and intuitive application that:
 - Data synchronization lags between backend system and new UI.
 - User adoption risks if training or interface is not intuitive enough.
 
+### Current Process
 ![Current HELOC Process Map](process-mapping/current-heloc-process-map.png)
+
+### Future Process
 
 

@@ -45,3 +45,54 @@ To develop a new **live tracker app** that:
 - Change management and training plans
 - Monitoring KPIs and feedback collection strategy
 
+---
+
+# Business Requirements Document (BRD)
+
+## Project: HELOC Banker Live Tracker Platform
+
+### Objective
+Build a centralized and intuitive application that:
+- Consolidates application status, stakeholder roles, applicant action items, and deadlines into a live progress map.
+- Enables bankers to easily understand, track, and trigger client and processor actions without switching between multiple systems.
+
+### Functional Requirements
+- Display real-time status of HELOC application lifecycle.
+- Highlight current application stage with visual indicators.
+- Show pending applicant tasks, processor actions, and underwriter reviews.
+- Allow bankers to send automated reminders to applicants for document uploads and responses.
+- Provide upcoming stage previews.
+- Centralize communications, notes, and document requests in one location.
+
+### Non-Functional Requirements
+- Responsive and mobile-friendly UI.
+- Secure access control integrated with bank SSO systems.
+- Fast load times (under 3 seconds for any page).
+- Minimal training required (platform should be self-explanatory).
+
+### User Roles
+- Banker (primary user)
+- Processor (backend stage advancement)
+- Applicant (external interaction via upload/request portal)
+- Underwriter/Closer (review and finalize)
+
+### Business Rules
+- Only processors can move an application from one stage to another.
+- Bankers can send document requests, view notes, and communicate progress but cannot manually advance application stages.
+- Deadlines for applicant responses should trigger escalation notifications after 48 hours.
+
+### Success Metrics
+- Banker understanding of HELOC lifecycle stages improves by 70% (survey-based).
+- 50% fewer banker escalations to support desk for "application status" issues.
+- Application abandonment rate by applicants reduces by 25%.
+
+### Assumptions
+- Current backend application management system remains the same; new platform serves as banker-facing overlay.
+- No direct API access for processors or underwriters.
+
+### Risks
+- Data synchronization lags between backend system and new UI.
+- User adoption risks if training or interface is not intuitive enough.
+
+---
+

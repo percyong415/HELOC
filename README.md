@@ -95,4 +95,4 @@ Build a centralized and intuitive application that:
 - User adoption risks if training or interface is not intuitive enough.
 
 ---
-
+![Current HELOC Process Map](./process-mapping/current-heloc-process-map.png)

@@ -107,4 +107,4 @@ Build a centralized and intuitive application that:
 - Improves efficiency and communication.
 ![Current HELOC Process Map](process-mapping/future-state-heloc-process.png)
 
-
+## Sample Dashboard Design

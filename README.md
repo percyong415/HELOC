@@ -78,9 +78,9 @@ Build a centralized and intuitive application that:
 - Underwriter/Closer (review and finalize)
 
 ### Business Rules
-- Only processors can move an application from one stage to another.
-- Bankers can send document requests, view notes, and communicate progress but cannot manually advance application stages.
-- Deadlines for applicant responses should trigger escalation notifications after 48 hours.
+- Front end application should be able to automatically trigger to next stage by the user the current stage is tasked to.
+- All users can send document requests, view notes, and communicate progress.
+- Deadlines for applicant responses should trigger escalation notifications according to application process manual.
 
 ### Success Metrics
 - Banker understanding of HELOC lifecycle stages improves by 70% (survey-based).

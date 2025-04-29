@@ -1,14 +1,14 @@
-Objective
+Objective:
 Ensure the HELOC Live Tracker platform provides bankers with a clear, accurate, and user-friendly way to monitor application stages, pending tasks, and deadlines, reducing reliance on fragmented systems.
 
-Scope
-Application lifecycle visual tracking
+Scope:
+- Application lifecycle visual tracking
 
-Applicant task management visibility
+- Applicant task management visibility
 
-Reminder/notification triggers
+- Reminder/notification triggers
 
-User interaction and task triggering by banker
+- User interaction and task triggering by banker
 
 🛠️ Test Scenarios
 
@@ -21,15 +21,15 @@ User interaction and task triggering by banker
 | TC-005 | Deadline Escalation | 1. Let applicant task expire past due date<br>2. Observe system escalation behavior | Banker receives an escalation alert; task is flagged overdue | |
 | TC-006 | Cross-System Integration | 1. Update document in back-end processor system<br>2. Refresh Live Tracker view | Updated status correctly reflected in Live Tracker in real time | |
 📋 Acceptance Criteria
-95% of UAT scenarios must pass without major defects
+- 95% of UAT scenarios must pass without major defects
 
-No critical usability barriers found during pilot tests
+- No critical usability barriers found during pilot tests
 
-Reminder and escalation triggers must function correctly
+- Reminder and escalation triggers must function correctly
 
-Bankers must complete common actions (view stage, send reminder) in under 2 clicks
+- Bankers must complete common actions (view stage, send reminder) in under 2 clicks
 
 ⚠️ Risks
-Backend sync latency may cause slight delays in status refresh
+- Backend sync latency may cause slight delays in status refresh
 
-User training required for full feature adoption
+- User training required for full feature adoption

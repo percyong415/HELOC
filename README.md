@@ -95,7 +95,6 @@ Build a centralized and intuitive application that:
 - Data synchronization lags between backend system and new UI.
 - User adoption risks if training or interface is not intuitive enough.
 
-
 ## Process Models
 ### Current
 - Multiple platforms for communication, status updates, executuon.
@@ -108,3 +107,4 @@ Build a centralized and intuitive application that:
 ![Current HELOC Process Map](process-mapping/future-state-heloc-process.png)
 
 ## Sample Dashboard Design
+![HELOC Tracker Dashboard](dashboard-concepts/heloc-tracker-dashboard.png)

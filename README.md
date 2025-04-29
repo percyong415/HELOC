@@ -96,9 +96,11 @@ Build a centralized and intuitive application that:
 
 ### Process Models
 ### Current
+- Multiple platforms for communication, status updates, executuon. Creates redundency and flip flopping.
 ![Current HELOC Process Map](process-mapping/current-heloc-process-map.png)
 
 ### Future
+- Reduces redundency by maximizing FU platform and simplifying process tracking.
 ![Current HELOC Process Map](process-mapping/future-state-heloc-process.png)
 
 

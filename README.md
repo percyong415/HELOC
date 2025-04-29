@@ -97,7 +97,7 @@ Build a centralized and intuitive application that:
 
 ## Process Models
 ### Current
-- Multiple platforms for communication, status updates, executuon.
+- Multiple platforms for communication, status updates, execution.
 - Creates redundency, flip flopping, and longer processing times.
 ![Current HELOC Process Map](process-mapping/current-heloc-process-map.png)
 

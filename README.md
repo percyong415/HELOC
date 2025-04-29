@@ -107,4 +107,4 @@ Build a centralized and intuitive application that:
 ![Current HELOC Process Map](process-mapping/future-state-heloc-process.png)
 
 ## Sample Dashboard Design
-![HELOC Tracker Dashboard](dashboard-concepts/heloc-tracker-dashboard.png)
+![HELOC Tracker Dashboard](dashboards-concepts/heloc-tracker-dashboard.png)

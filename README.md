@@ -40,10 +40,11 @@ To develop a new **live tracker app** that:
 ## Artifacts
 - Requirements documentation (BRD, user stories)
 - Process flow diagrams (current vs. future state)
-- Wireframes and UX mockups
+- Wireframe-integrated process mockups (live tracker flow)
 - Sample dashboard design (progress tracker)
 - Change management and training plans
 - Monitoring KPIs and feedback collection strategy
+
 
 ---
 

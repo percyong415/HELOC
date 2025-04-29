@@ -114,3 +114,9 @@ Build a centralized and intuitive application that:
 The UAT plan outlines key testing scenarios to validate the HELOC Live Tracker functionality, including application status tracking, pending task visibility, reminder triggers, and escalation flows.
 
 ➡️ [View Full UAT Test Plan](uat-test-plan/UAT-HELOC-Live-Tracker.md)
+
+## 📈 Monitoring and Continuous Improvement
+
+The Monitoring and Optimization Plan tracks KPIs such as banker satisfaction, application processing times, and escalation incidents to ensure the HELOC Live Tracker delivers continuous value.
+
+➡️ [View Full Monitoring and KPI Plan](change-management/Monitoring-KPIs-HELOC-Live-Tracker.md)

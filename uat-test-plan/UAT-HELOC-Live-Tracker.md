@@ -1,4 +1,4 @@
-**<u>Objective:<u>**
+** <u>Objective:</u> **
 Ensure the HELOC Live Tracker platform provides bankers with a clear, accurate, and user-friendly way to monitor application stages, pending tasks, and deadlines, reducing reliance on fragmented systems.
 
 Scope:

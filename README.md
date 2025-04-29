@@ -42,7 +42,7 @@ To develop a new **live tracker app** that:
 - Process flow diagrams (current vs. future state)
 - Wireframe-integrated process mockups (live tracker flow)
 - Sample dashboard design (progress tracker)
-- Change management and training plans
+- User Acceptance Training Plan
 - Monitoring KPIs and feedback collection strategy
 
 

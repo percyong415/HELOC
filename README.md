@@ -41,7 +41,7 @@ To develop a new **live tracker app** that:
 - Requirements documentation (BRD, user stories)
 - Process flow diagrams (current vs. future state)
 - Wireframe-integrated process mockups (live tracker flow)
-- Sample dashboard design (progress tracker)
+- [Sample dashboard design](dashboards-concepts/heloc-tracker-dashboard.png)
 - [User Acceptance Testing Plan](uat-test-plan/UAT-HELOC-Live-Tracker.md)
 - [Monitoring KPIs and feedback collection strategy](change-management/Monitoring-KPIs-HELOC-Live-Tracker.md)
 

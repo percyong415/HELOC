@@ -42,8 +42,8 @@ To develop a new **live tracker app** that:
 - Process flow diagrams (current vs. future state)
 - Wireframe-integrated process mockups (live tracker flow)
 - Sample dashboard design (progress tracker)
-- User Acceptance Testing Plan
-- Monitoring KPIs and feedback collection strategy
+- User Acceptance Testing Plan 
+- Monitoring KPIs and feedback collection strategy change-management/Monitoring-KPIs-HELOC-Live-Tracker.md
 
 
 ---

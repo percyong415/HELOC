@@ -38,7 +38,7 @@ To develop a new **live tracker app** that:
 - 30% improvement in banker response times to applicant needs.
 
 ## Artifacts
-- Requirements documentation (BRD, user stories)
+- Requirements documentation (BRD, user stories) _below_
 - [Wireframe-integrated process flow diagram mockups](process-mapping)
 - [Sample dashboard design](dashboards-concepts/heloc-tracker-dashboard.png)
 - [User Acceptance Testing Plan](uat-test-plan/UAT-HELOC-Live-Tracker.md)

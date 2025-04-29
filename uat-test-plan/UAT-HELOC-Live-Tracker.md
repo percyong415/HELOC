@@ -20,7 +20,8 @@ Scope:
 | TC-004 | Processor Action Visibility | 1. Open application<br>2. View upcoming stage under Processor responsibility | Banker can view next stage tasks and responsible party | |
 | TC-005 | Deadline Escalation | 1. Let applicant task expire past due date<br>2. Observe system escalation behavior | Banker receives an escalation alert; task is flagged overdue | |
 | TC-006 | Cross-System Integration | 1. Update document in back-end processor system<br>2. Refresh Live Tracker view | Updated status correctly reflected in Live Tracker in real time | |
-📋 Acceptance Criteria
+
+📋 Acceptance Criteria:
 - 95% of UAT scenarios must pass without major defects
 
 - No critical usability barriers found during pilot tests

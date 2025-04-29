@@ -108,3 +108,9 @@ Build a centralized and intuitive application that:
 
 ## Sample Dashboard Design
 ![HELOC Tracker Dashboard](dashboards-concepts/heloc-tracker-dashboard.png)
+
+## 📋 User Acceptance Testing (UAT) Plan
+
+The UAT plan outlines key testing scenarios to validate the HELOC Live Tracker functionality, including application status tracking, pending task visibility, reminder triggers, and escalation flows.
+
+➡️ [View Full UAT Test Plan](uat-test-plan/UAT-HELOC-Live-Tracker.md)

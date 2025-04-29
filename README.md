@@ -101,9 +101,4 @@ Build a centralized and intuitive application that:
 ### Future
 ![Current HELOC Process Map](process-mapping/future-state-heloc-process-map.png)
 
-### Current Process
-![Current HELOC Process Map](process-mapping/current-heloc-process-map.png)
-
-### Future Process
-
 

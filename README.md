@@ -102,7 +102,7 @@ Build a centralized and intuitive application that:
 ![Current HELOC Process Map](process-mapping/current-heloc-process-map.png)
 
 ### Future
-- Reduces redundency and maximizes front end UX.
+- Reduces redundency and maximizes front end UI with improved features and capabilities.
 - Improves efficiency and communication.
 ![Current HELOC Process Map](process-mapping/future-state-heloc-process.png)
 
